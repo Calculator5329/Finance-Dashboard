@@ -39,7 +39,7 @@ The initial design started with a PowerPoint mockup outlining the layout and sec
 ## Final Dashboard
 The final Power BI dashboard reflects the mockup design and offers interactive and dynamic data visualization:
 
-![Final_Dashboard](https://github.com/Calculator5329/Finance-Dashboard/assets/62777822/1a4a6e80-1257-45a6-b8fb-9446a8395b36)
+![Final_Dashboard]!(https://github.com/Calculator5329/Finance-Dashboard/assets/62777822/1a4a6e80-1257-45a6-b8fb-9446a8395b36)
 
 ## Technologies Used
 - Power BI
