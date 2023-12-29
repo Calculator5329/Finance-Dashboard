@@ -34,12 +34,12 @@ The initial design started with a PowerPoint mockup outlining the layout and sec
 - **Savings Breakdown**: Overview of savings distribution.
 - **Detailed Statement**: A comprehensive financial statement.
 
-![Design Mockup]![Screenshot_52](https://github.com/Calculator5329/Finance-Dashboard/assets/62777822/ab8e3f1e-d953-4fb4-9481-046a1522c814)
+![Screenshot_52](https://github.com/Calculator5329/Finance-Dashboard/assets/62777822/eb0ab8a8-687a-4036-8492-782ec091a29e)
 
 ## Final Dashboard
 The final Power BI dashboard reflects the mockup design and offers interactive and dynamic data visualization:
 
-![Final_Dashboard]!(https://github.com/Calculator5329/Finance-Dashboard/assets/62777822/1a4a6e80-1257-45a6-b8fb-9446a8395b36)
+![Finance_Dashboard](https://github.com/Calculator5329/Finance-Dashboard/assets/62777822/014cc738-fd3e-4a39-a5fb-5392646ace6c)
 
 ## Technologies Used
 - Power BI
