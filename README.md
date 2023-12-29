@@ -7,38 +7,39 @@
 - [Final Dashboard](#final-dashboard)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Project Overview
-This project showcases a Finance Dashboard designed in Power BI to assist users in tracking expenses, analyzing savings, and understanding financial health against set KPIs. The dashboard was created based on a hypothetical scenario where stakeholder needs and business objectives were taken into consideration to simulate a real-world application.
+This project is a conceptual Finance Dashboard created in Power BI designed to help users manage personal finances. It visualizes key metrics to track net worth, income, savings, and expenses, facilitating informed financial decision-making.
 
 ## Requirements and KPIs
-The following requirements were identified to guide the development of the finance dashboard:
-- **Expense Tracking**: Ability to track monthly expenses across various categories.
-- **Savings Analysis**: Evaluate savings progress and compare it to predefined savings goals.
-- **Financial Health Indicators**: Display key financial metrics to assess overall financial stability.
+Based on hypothetical stakeholder needs, the dashboard aims to provide:
+- A real-time overview of financial health.
+- Insight into how expenses and savings fluctuate over time.
+- Actionable data to help meet financial goals.
 
 Key Performance Indicators (KPIs) include:
-- Expense to Income Ratio
-- Month-over-Month Savings Growth
-- Emergency Fund Sufficiency
+- Net Worth Tracking
+- Income Analysis
+- Savings Allocation
+- Expense Percentage by Category
 
 ## Design Mockup
-The PowerPoint mockup served as the blueprint for the dashboard design. It outlines the layout, visual elements, and interaction points expected in the final product.
+The initial design started with a PowerPoint mockup outlining the layout and sections of the dashboard:
 
-![PowerPoint Mockup](link-to-your-powerpoint-mockup-image)
+- **Main Title**: Identifying the dashboard’s purpose.
+- **KPIs**: Current financial metrics for a snapshot of financial standing.
+- **Timeline Selection**: Filter data by different time periods.
+- **Expense Breakdown**: Visual representation of spending by category.
+- **Savings Breakdown**: Overview of savings distribution.
+- **Detailed Statement**: A comprehensive financial statement.
 
-The mockup was instrumental in visualizing the stakeholder requirements and ensuring the dashboard's functionality aligns with the project goals.
+![Design Mockup](https://github.com/Calculator5329/Finance-Dashboard/assets/62777822/c9c69963-17b4-4a50-a8b7-f9bc01a0319e)
+
 
 ## Final Dashboard
-The final version of the dashboard integrates the feedback and requirements gathered during the mockup phase and presents a comprehensive view of financial data.
+The final Power BI dashboard reflects the mockup design and offers interactive and dynamic data visualization:
 
-![Final Dashboard](link-to-your-final-dashboard-image)
-
-It features interactive elements and real-time data processing to provide an engaging user experience while offering actionable insights into financial management.
+![Final_Dashboard](https://github.com/Calculator5329/Finance-Dashboard/assets/62777822/1a4a6e80-1257-45a6-b8fb-9446a8395b36)
 
 ## Technologies Used
 - Power BI
@@ -47,7 +48,4 @@ It features interactive elements and real-time data processing to provide an eng
 - Microsoft PowerPoint
 
 ## Installation
-Provide instructions on how to install any necessary components to view or interact with the dashboard.
-
-```bash
-Instructions for installation, if applicable.
+Instructions on how to install and set up the Power BI dashboard:
