@@ -46,6 +46,3 @@ The final Power BI dashboard reflects the mockup design and offers interactive a
 - DAX
 - Power Query
 - Microsoft PowerPoint
-
-## Installation
-Instructions on how to install and set up the Power BI dashboard:
