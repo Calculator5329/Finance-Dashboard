@@ -23,8 +23,6 @@ Key Performance Indicators (KPIs) include:
 - Savings Allocation
 - Expense Allocation
 - Net Income
-- Expenses by Category
-- Savings by Category
 
 ## Design Mockup
 The initial design started with a PowerPoint mockup outlining the layout and sections of the dashboard:
