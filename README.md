@@ -8,8 +8,9 @@
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 
+
 ## Project Overview
-This project is a conceptual Finance Dashboard created in Power BI designed to help users manage personal finances. It visualizes key metrics to track net worth, income, savings, and expenses, facilitating informed financial decision-making.
+This project is a conceptual Finance Dashboard created in Power BI designed to help users manage personal finances. It visualizes key metrics to track income, savings, expenses, and facilitating informed financial decision-making.
 
 ## Requirements and KPIs
 Based on hypothetical stakeholder needs, the dashboard aims to provide:
@@ -18,23 +19,24 @@ Based on hypothetical stakeholder needs, the dashboard aims to provide:
 - Actionable data to help meet financial goals.
 
 Key Performance Indicators (KPIs) include:
-- Net Worth Tracking
-- Income Analysis
+- Income
 - Savings Allocation
-- Expense Percentage by Category
+- Expense Allocation
+- Net Income
+- Expenses by Category
+- Savings by Category
 
 ## Design Mockup
 The initial design started with a PowerPoint mockup outlining the layout and sections of the dashboard:
 
-- **Main Title**: Identifying the dashboard’s purpose.
 - **KPIs**: Current financial metrics for a snapshot of financial standing.
 - **Timeline Selection**: Filter data by different time periods.
+- **Expense and Savings %**: Showcase expense and savings % of income over time.
 - **Expense Breakdown**: Visual representation of spending by category.
 - **Savings Breakdown**: Overview of savings distribution.
 - **Detailed Statement**: A comprehensive financial statement.
 
-![Design Mockup](https://github.com/Calculator5329/Finance-Dashboard/assets/62777822/c9c69963-17b4-4a50-a8b7-f9bc01a0319e)
-
+![Design Mockup]![Screenshot_52](https://github.com/Calculator5329/Finance-Dashboard/assets/62777822/ab8e3f1e-d953-4fb4-9481-046a1522c814)
 
 ## Final Dashboard
 The final Power BI dashboard reflects the mockup design and offers interactive and dynamic data visualization:
