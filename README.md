@@ -6,8 +6,6 @@
 - [Design Mockup](#design-mockup)
 - [Final Dashboard](#final-dashboard)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-
 
 ## Project Overview
 This project is a conceptual Finance Dashboard created in Power BI designed to help users manage personal finances. It visualizes key metrics to track income, savings, expenses, and facilitating informed financial decision-making.
